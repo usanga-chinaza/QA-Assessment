@@ -1,0 +1,16 @@
+{
+  "FirstName": "Janet",
+  "LastName": "Don",
+  "EmailAddress": "chinaza1416@gmail.com",
+  "Password": "Password1%",
+  "WPassword": "Pwd",
+  "ConfirmPassword": "Password1%",
+  "CPassword": "Password",
+
+  "LoginMail": "john@mail.com",
+  "LoginPassword": "m44CNe9ISTGJfOK!",
+
+  "IncorrectLoginMail": "bread@tea.com",
+  "IncorrectLoginPassword": "PASSWORD",
+  "IncorrectMailFormat": "breadandtea"
+}
